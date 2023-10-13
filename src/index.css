@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+*{
+    margin:0 ;
+    padding: 0 ;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    font-family: 'Roboto', sans-serif;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.error{
+    @apply border-2 border-red-500 bg-red-500 bg-opacity-10 py-4 px-6 w-full font-roboto  rounded-md text-base 
+}
