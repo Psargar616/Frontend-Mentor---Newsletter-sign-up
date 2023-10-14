@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [ solution URL ](https://github.com/Psargar616/Frontend-Mentor---Newsletter-sign-up)
-- Live Site URL: [ live site URL ](https://your-live-site-url.com)
+- Live Site URL: [ live site URL ](https://newsletter-sign-up-form-react-fm.netlify.app/)
 
 ### Built with
 
